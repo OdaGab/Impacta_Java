@@ -1,0 +1,31 @@
+primeiro 
+
+git init 
+git branch -M main 
+no GitHub pegar o endereço do repositório 
+git remote add <nome do repositorio> <endereço>
+git remote <nome do repositorio>
+passo 02 
+git status 
+git add <nome arquivo>
+git add . <todos os arquivos>
+
+commit 
+//registrando a auteração
+git commit -m "mensagem referente ao arquivo"
+git log // informação local 
+
+git push <nome arquivo> main
+
+trabalhando junto com o colega 
+alterar arquivo e commitar no botão verde 
+
+git log 
+git pull original main 
+
+
+
+
+
+
+
